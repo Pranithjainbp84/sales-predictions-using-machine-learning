@@ -24,14 +24,6 @@ This project can serve as a template for building sales prediction models in var
    ```bash
    git clone https://github.com/yourusername/Sales-Predictions-ML.git
 
-   Contributing
-Contributions to enhance the model, optimize code, or extend features are welcome. If you'd like to contribute:
-
-Fork the repository.
-Create a new branch for your changes.
-Implement your changes and commit them.
-Push your changes to your forked repository.
-Open a pull request describing your changes and their impact.
 
 Contact
 
